@@ -19,11 +19,6 @@
   <h2>🌟 My Stats 🌟</h2>
   <a href="https://github.com/MarcusCarvalho21"></a>
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=MarcusCarvalho21&show_icons=true&theme=tokyonight")/>
-  <img height="180em" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCarvalho21&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCarvalho21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  ##
-  
-
-
-## Top Languages
