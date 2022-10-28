@@ -15,7 +15,7 @@
   
 <br>
 
-<div align="center" display="inline">
+<div align="center" style="display:inline">
   <h2>🌟 My Stats 🌟</h2>
   <a href="https://github.com/MarcusCarvalho21"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusCarvalho21&show_icons=true&theme=tokyonight")/>
