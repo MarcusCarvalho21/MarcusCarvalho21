@@ -2,6 +2,7 @@
 
 - 🤓 Graduating in Computer Engineering.
 - 🖥️ Focus Back-End development
+- 🧠 Currently studying Machine Learning and Artificial Intelligence.
 
 <br>
 
